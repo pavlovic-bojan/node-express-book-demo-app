@@ -1,12 +1,12 @@
 {
-  "name": "assignment1",
+  "name": "Node Express Book Demo API APP",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repository is result from my independent project to train certain things in Node js & Express js to create REST API Backend.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "bojanpavlovicoffice@gmail.com",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
