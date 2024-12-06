@@ -1,0 +1,14 @@
+### Node Modules ###
+/node_modules/
+
+### ENV File ###
+.env
+
+### IntelliJ IDEA ###
+.idea/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
